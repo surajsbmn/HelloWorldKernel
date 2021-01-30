@@ -12,4 +12,4 @@
  $ make os.iso
  $ make run
  ```
- 
+![Output](https://i.imgur.com/DsK1uSV.png "Kernel Running in Bochs")
